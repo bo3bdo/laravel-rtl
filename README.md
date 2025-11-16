@@ -3,6 +3,9 @@
 ## 📋 الملخص
 تم إضافة دعم كامل للغة العربية في التطبيق مع دعم التخطيط من اليمين إلى اليسار (RTL) لتحسين تجربة المستخدمين الناطقين بالعربية.
 
+<img width="796" height="935" alt="image" src="https://github.com/user-attachments/assets/fc32a055-3a58-429a-8946-caad559363d1" />
+
+
 ## ✨ الميزات المضافة
 
 ### 1. دعم RTL (Right-to-Left)
@@ -108,7 +111,4 @@ class="{{ in_array(app()->getLocale(), ['ar', 'he', 'fa', 'ur']) ? 'border-s' : 
 - [Tailwind CSS RTL Support](https://tailwindcss.com/docs/hover-focus-and-other-states#rtl-support)
 - [Arabic Typography Best Practices](https://www.w3.org/International/articles/typography/arabic)
 
----
-
-**تم بواسطة:** [اسمك]  
-**التاريخ:** [التاريخ الحالي]
+---]
